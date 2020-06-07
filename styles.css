@@ -1,0 +1,35 @@
+.navbar{
+
+}
+
+.logo{
+  float: left;
+}
+
+.Login-bar{
+  float: right;
+}
+
+.content{
+  width: 100%;
+  padding: 50px;
+}
+
+.content-left{
+  width: 50%;
+  height: 100px;
+  float: left;
+  text-align: center;
+}
+
+.content-right{
+  margin-left: 50%;
+  height: 100px;
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
